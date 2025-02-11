@@ -1,4 +1,4 @@
-# 📄 CVCraft
+# 📄 ResuMaker
 
 CVCraft is a Python web application that allows users to automatically generate a CV in PDF format via an interactive form with Streamlit.
 
@@ -53,7 +53,3 @@ CVCraft/
 
 ## 📜 License
 Open-source project under the MIT license.
-
----
-💡 **Idea and development by [Your Name]**
-
